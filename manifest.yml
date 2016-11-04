@@ -10,7 +10,7 @@ applications:
 - services:
   - iot-phone-cloudant-cloudantNoSQLDB
   - iot-phone-iotf-service
-  host: myiotphone
+  host: myiotsimu
   name: iot-phone
   disk: 128M
   command: node app.js
